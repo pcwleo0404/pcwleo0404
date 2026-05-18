@@ -1,16 +1,41 @@
-## Hi there 👋
+# Phil
 
-<!--
-**pcwleo0404/pcwleo0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Interested in IT, cybersecurity and infrastructure
+- Building homelab and embedded projects
+- Learning Linux, networking and self-hosting
+- Working on practical hardware and software projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Current Focus
+
+- Homelab infrastructure
+- Docker & self-hosting
+- ESP32 development
+- Networking fundamentals
+- Linux administration
+- Cybersecurity learning
+
+---
+
+# Projects
+
+| Project | Description |
+|---|---|
+| homelab-documentation | Personal homelab and infrastructure documentation |
+| esp32-cyberdeck | Portable ESP32 cybersecurity learning device |
+
+---
+
+# Technologies
+
+- Linux
+- Docker
+- Tailscale
+- Pi-hole
+- ESP32
+- GitHub
+- Networking
+- Self-hosting
